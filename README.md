@@ -1,7 +1,7 @@
 ## Kauã
 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Kauã Honorato de Almeida, tenho 19 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Marina Bento. Atualmente, estou cursando Engenharia de Software na Descomplica. 
 
